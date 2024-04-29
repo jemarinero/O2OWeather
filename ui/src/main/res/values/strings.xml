@@ -1,0 +1,16 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_service_error">Servicio no disponible</string>
+    <string name="msg_connection_error">Error de conexión</string>
+    <string name="msg_no_data_error">No hay datos disponibles</string>
+    <string name="msg_server_error">Error de Servidor</string>
+    <string name="msg_timeout_error">El tiempo de respuesta ha sido agotado</string>
+    <string name="msg_unauthorized_error">El usuario no esta autorizado</string>
+    <string name="msg_generic_error">Sucedio un error inesperado</string>
+    <string name="text_o2o_logo">O2O Logo</string>
+    <string name="text_weather_app">Tiempo O2O</string>
+    <string name="label_search_city">Buscar ciudad</string>
+    <string name="btn_search">Buscar</string>
+    <string name="txt_loading_data">Cargando datos...</string>
+</resources>
